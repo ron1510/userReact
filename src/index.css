@@ -11,3 +11,38 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.margin-left{
+  margin-left: 20px;
+}
+
+.margin-right{
+  margin-right: 20px;
+}
+
+.margin-bottom{
+  margin-bottom: 20px;
+}
+
+.margin-top{
+  margin-top: 20px;
+}
+
+.text-right{
+  text-align: right;
+}
+.text-left{
+  text-align: left;
+}
+
+.black-border{
+  border: 2px solid black;
+}
+
+.red{
+  border: 2px solid red;
+}
+
+.green{
+  border: 2px solid green;
+}
